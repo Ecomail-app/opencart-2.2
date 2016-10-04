@@ -4,8 +4,8 @@ Ecomail.cz modul pro Opencart 2.2
 
 ## Pomocí extension installeru
 
-Stáhněte si modul zabalený jako ZIP a nainstalujte přímo v administraci vašeho e-shopu.
+Stáhněte si modul zabalený jako [ZIP](https://github.com/Ecomailcz/opencart-2.2/archive/master.zip) a nainstalujte přímo v administraci vašeho e-shopu.
 
 ## Manuálně
 
-Stáhněte si modul zabalený jako ZIP a do kořenového adresáře e-shopu nahrajte obsah složky "upload"
+Stáhněte si modul zabalený jako [ZIP](https://github.com/Ecomailcz/opencart-2.2/archive/master.zip) a do kořenového adresáře e-shopu nahrajte obsah složky `upload`
