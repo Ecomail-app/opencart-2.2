@@ -1,0 +1,25 @@
+{
+  "name": "ecomail/opencart",
+  "repositories": [
+    {
+      "type": "path",
+      "url": "/Volumes/Data/Development/LNC/packages/*",
+      "options": {
+        "symlink": false
+      }
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "lnc/opencart": "*"
+  },
+  "config": {
+    "vendor-dir": "vendor/ecomail"
+  },
+  "authors": [
+    {
+      "name": "Ecomail.cz s.r.o."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+    {
+        "name": "lnc/opencart",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "dist": {
+            "type": "path",
+            "url": "/Volumes/Data/Development/LNC/packages/lnc-opencart",
+            "reference": "2819d76b36e5a4a722522268123a965134ef5e78",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "LNC\\OpenCart\\": [
+                    "src/"
+                ]
+            }
+        },
+        "authors": [
+            {
+                "name": "Jan Cinert",
+                "email": "jan.cinert@gmail.com"
+            }
+        ],
+        "transport-options": {
+            "symlink": false
+        }
+    }
+]

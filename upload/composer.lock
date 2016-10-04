@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "eadce4ffdc9177d34110732dc30c9266",
+    "content-hash": "45232420ce8a53284375b92e56d963d8",
+    "packages": [
+        {
+            "name": "lnc/opencart",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "/Volumes/Data/Development/LNC/packages/lnc-opencart",
+                "reference": "2819d76b36e5a4a722522268123a965134ef5e78",
+                "shasum": null
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "LNC\\OpenCart\\": [
+                        "src/"
+                    ]
+                }
+            },
+            "authors": [
+                {
+                    "name": "Jan Cinert",
+                    "email": "jan.cinert@gmail.com"
+                }
+            ],
+            "transport-options": {
+                "symlink": false
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
