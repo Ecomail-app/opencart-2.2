@@ -1,5 +1,7 @@
 Ecomail.cz modul pro Opencart 2.2
 
+Pro Opencart 2.0 - 2.1 využijte prosím tento plugin: https://github.com/Ecomailcz/opencart-2.0-2.1
+
 # Instalace
 
 ## Pomocí extension installeru
