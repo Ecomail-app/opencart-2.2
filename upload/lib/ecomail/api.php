@@ -47,7 +47,7 @@
             curl_setopt(
                     $ch,
                     CURLOPT_URL,
-                    "http://api2.ecomailapp.cz/" . $url
+                    "http://api2.ecomailapp.com/" . $url
             );
             curl_setopt(
                     $ch,
