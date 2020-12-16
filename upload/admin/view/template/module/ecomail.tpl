@@ -48,7 +48,7 @@
                                 <?php } ?>
                                 <?php } ?>
                             </select>
-                            <span>Vyberte list do kterého budou zapsáni noví zákazníci</span>
+                            <span>Please select contact list</span>
                         </div>
                     </div>
                     <div class="form-group">
