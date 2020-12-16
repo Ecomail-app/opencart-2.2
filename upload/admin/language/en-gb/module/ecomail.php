@@ -7,9 +7,9 @@
     $_['text_edit']    = 'Edit Ecomail Module';
 
     // Entry
-    $_['entry_api_key'] = 'Vložte Váš API klíč';
-    $_['entry_list_id'] = 'Vyberte list';
-    $_['entry_app_id']  = 'Vložte Vaše appId';
+    $_['entry_api_key'] = 'Insert your API key';
+    $_['entry_list_id'] = 'Select contact list';
+    $_['entry_app_id']  = 'Insert your appId';
     $_['entry_status']  = 'Status';
 
     // Error
